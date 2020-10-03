@@ -12,8 +12,10 @@ os.system('pkg install toilet')
 os.system('clear')
 print "[√] Installasi Selesai"
 os.system('clear')
-pilih = raw_input('pilih nomor:nmap -sn')
+pilih = raw_input('pilih nomor:'nmap -sn )
 if pilih == "1":
-   print "[√] Scan Complete"
-
+print "ketik (0) untuk keluar"
+print "[√] Scan Complete"
+elif pilih == "0":
+exit()
               
