@@ -18,6 +18,7 @@ os.system("echo Youtube:R3D BULL CYBER |lolcat")
 os.system("echo github:https://github.com/TUTORIAL-termux-github |lolcat")
 print "======================================="
 print ""
+print "jika ingin berhenti tekan CTRL + C"
 os.system("echo [!] Awal url tidak boleh menggunakan = https/https |lolcat")
 name=raw_input('Masukkan web: ')
 os.system("clear")
