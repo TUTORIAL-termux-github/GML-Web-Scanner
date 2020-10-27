@@ -18,7 +18,7 @@ os.system("echo Youtube:R3D BULL CYBER |lolcat")
 os.system("echo github:https://github.com/TUTORIAL-termux-github |lolcat")
 print "======================================="
 print ""
-print "jika ingin berhenti tekan CTRL + C"
+print "jika ingin berhenti tekan CTRL + C sebanyak 2x"
 os.system("echo [!] Awal url tidak boleh menggunakan = https/https |lolcat")
 name=raw_input('Masukkan web: ')
 os.system("clear")
@@ -29,3 +29,4 @@ print("ip webnya {} = {}".format(name, addr))
 os.system("google --rua %s php id=" % name)
 os.system("google --rua %s php?cid=" % name)
 print "Scan web selesai"
+
